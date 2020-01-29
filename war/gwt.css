@@ -1,0 +1,29 @@
+/** Add css rules here for your application. */
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: left;
+}
+
+h4 {
+    text-align: center;
+}
+
+.b {
+    align-content: center;
+    font-size: 16px;
+    background: paleturquoise;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.t {
+    width: 100px;
+    height: 50px;
+}
+
